@@ -1,6 +1,6 @@
 # excalidraw-dsa-kit
 
-A collection of [Obsidian Excalidraw](https://github.com/zsviczian/obsidian--excalidraw-plugin) scripts for visualizing data structures and algorithm patterns. Built for LeetCode problem-solving and DSA study sessions
+A collection of [Obsidian Excalidraw](https://github.com/zsviczian/obsidian-excalidraw-plugin) scripts for visualizing data structures and algorithm patterns. Built for LeetCode problem-solving and DSA study sessions
 
 I kept hitting the same wall every time I sat down to practice LeetCode. I'd open a problem, read the input — something like `[3, 1, 4, 1, 5, 9]` or a tree serialized as `[1, 2, 3, null, 4]` — and before I could even think about the algorithm I was spending five minutes drawing boxes, connecting arrows, labeling nodes by hand. By the time the diagram looked right, I'd lost the thread of the problem.
 
